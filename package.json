@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-ruby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helpers are used in templates to help you insert snippets quickly. Helpers cannot be used in source files.",
   "main": "index.js",
   "scripts": {
