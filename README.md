@@ -23,7 +23,7 @@ npm i hexo-helper-ruby
 
 e.g.:
 ```javascript
-<%- ruby('初音未来', 'Hatsne Miku') %>
+<%- ruby('初音未来', 'Hatsune Miku') %>
 // '<ruby><rb>初音未来</rb><rp>(</rp><rt>Hatsune Miku</rt><rp>)</rp></ruby>'
 ```
 
