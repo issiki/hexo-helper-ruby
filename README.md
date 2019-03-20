@@ -8,6 +8,8 @@ Helpers are used in templates to help you insert snippets quickly. Helpers canno
 辅助函数帮助您在模版中快速插入内容。辅助函数不能在源文件中使用。
 
 ## Setup
+[![NPM](https://nodei.co/npm/hexo-helper-ruby.png)](https://nodei.co/npm/hexo-helper-ruby/)
+
 via npm:
 ```bash
 npm i hexo-helper-ruby
